@@ -1,0 +1,17 @@
+{
+  "name": "vendor/dolyame",
+  "autoload": {
+    "files": [
+      "classes/Client.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Andrey U",
+      "email": "info@rus-design.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
+}
